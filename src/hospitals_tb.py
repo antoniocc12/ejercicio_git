@@ -24,3 +24,5 @@ def json_to_df(data):
 
             
     return pd.DataFrame(places)
+
+    
